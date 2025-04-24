@@ -39,7 +39,7 @@ python main.py
 </details>
 
 <details>
-  <summary><h2>coletor-de-dados</h2></summary>
+  <summary><h2>notification-service</h2></summary>
 
 ## notification-service
 Esse serviço notifica o usuário a partir do sistema de notificações do Windows 11. Ele consome o arquivo `atividades.json` gerado pelo serviço de coleta de dados. Esse serviço é dependente dos dados gerados pelo serviço de coleta de dados, rode-o apenas após fazer a coleta.
