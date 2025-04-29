@@ -20,13 +20,13 @@ INST_USERNAME=
 INST_PASSWORD=
 ```
 
+---
+
 ## notification-service
 Esse serviço notifica o usuário a partir do sistema de notificações do Windows 11. Ele consome o arquivo `atividades.json` gerado pelo serviço de coleta de dados. Esse serviço é dependente dos dados gerados pelo serviço de coleta de dados, rode-o apenas após fazer a coleta.
 
 ### Tecnologias
 - Python 3.13
-
----
 
 ## Como rodar
 #### Dependencias
